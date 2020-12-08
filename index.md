@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AdaptOR: Deep Generative Models for Domain Adaptation in Surgery
 
 You can use the [editor on GitHub](https://github.com/SandyEngelh/AdaptOR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
